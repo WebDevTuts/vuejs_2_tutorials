@@ -1,1 +1,1 @@
-### Lesson 1 - The Vue Instance
+### Lesson 2 - The Vue Instance
