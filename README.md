@@ -1,4 +1,4 @@
-# [VueJS 2 Tutorials by NetNinja](http://courses.mindvalleyacademy.com/modern-master/masterclass/invite/control?utm_source=maropost-broadcast&utm_medium=email&utm_campaign=launch-bmm-may-2017&utm_content=email-02-2017-05-06&utm_term=[list_exl]&name=Edwin%20&email=edwinchen85@gmail.com&mpweb=583-3369838-743289755)
+# [VueJS 2 Tutorials by NetNinja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
 
 ## Build Setup
 
