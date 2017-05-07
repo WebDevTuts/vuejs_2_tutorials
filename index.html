@@ -9,7 +9,8 @@
     <body>
       <div id="vue-app">
         <h1>{{ greet('afternoon') }}</h1>
-        <a :href="website"></a>
+        <a v-bind:href="website">The Net Ninja</a>
+        <input type="text" v-bind:value="name">
     </div>
 
       <script src="app.js"></script>
