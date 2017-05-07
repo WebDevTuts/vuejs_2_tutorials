@@ -4,11 +4,11 @@ new Vue({
     age: 25
   },
   methods: {
-    add: function() {
-      this.age++;
+    add: function(inc) {
+      this.age += inc;
     },
-    substract: function() {
-      this.age--;
+    substract: function(dec) {
+      this.age -= dec;
     }
 
   }
