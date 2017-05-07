@@ -2,4 +2,4 @@
 
 - Add .gitignore file
 - Add starter index.html
-- Add starter style.css
+- Add starter styles.css
