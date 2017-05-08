@@ -1,7 +1,7 @@
 new Vue({
   el: '#vue-app',
   data: {
-    available: false,
+    available: true,
     nearby: false
   },
   methods: {
