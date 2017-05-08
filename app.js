@@ -4,6 +4,8 @@ new Vue({
 
   },
   methods: {
-
+    readRefs: function() {
+      console.log(this.$refs.input.value);
+    }
   }
 });
